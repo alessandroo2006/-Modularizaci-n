@@ -1,0 +1,14 @@
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\Modularizacion-Progra-Robertson.M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\Modularizacion-Progra-Robertson.M.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\Modularizacion-Progra-Robertson.M.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\Modularizacion-Progra-Robertson.M.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\bin\Debug\net9.0\Modularizacion-Progra-Robertson.M.exe
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\bin\Debug\net9.0\Modularizacion-Progra-Robertson.M.deps.json
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\bin\Debug\net9.0\Modularizacion-Progra-Robertson.M.runtimeconfig.json
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\bin\Debug\net9.0\Modularizacion-Progra-Robertson.M.dll
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\bin\Debug\net9.0\Modularizacion-Progra-Robertson.M.pdb
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\Modularizacion-Progra-Robertson.M.dll
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\refint\Modularizacion-Progra-Robertson.M.dll
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\Modularizacion-Progra-Robertson.M.pdb
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\Modularizacion-Progra-Robertson.M.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Documents\MODURALIZACION\Modularizacion-Progra-Robertson.M\obj\Debug\net9.0\ref\Modularizacion-Progra-Robertson.M.dll
